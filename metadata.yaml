@@ -1,5 +1,8 @@
 _repo: The-Southern-Literary-Messenger-Vol-I-No-13-September-1835_59383
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49663
     wikipedia: https://en.wikipedia.org/wiki/Edward_Vernon_Sparhawk
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59383#The-Southern-Literary-Messenger-Vol-I-No-13-September-1835
 gutenberg_issued: '2019-04-28'
 gutenberg_type: Text
 identifiers:
